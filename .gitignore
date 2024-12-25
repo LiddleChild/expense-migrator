@@ -1,0 +1,9 @@
+bin
+include
+lib
+*.xlsx
+*.csv
+cerds.json
+*.cfg
+tmp
+.env
